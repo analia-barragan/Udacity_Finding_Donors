@@ -8,7 +8,7 @@ The goal of this project is to find donors for a fictitious charity called Chari
 
 
 The organization determined that every donation they had came from individuals making $50k or more annually. For their next outreach they plan to send out letters only to likely donors.
-The task is to identify these likely donors by evaluating and optimizing several different supervised learning algorithms and determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
+The task is to identify these likely donors by evaluating and optimizing several different supervised learning algorithms and determining which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
 
 ## Required Libraries
 
