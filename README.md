@@ -17,7 +17,7 @@ The task is to identify these likely donors by evaluating and optimizing several
 - [Time](https://docs.python.org/3/library/time.html)
 - [Visuals.py (provided by udacity)](https://github.com/udacity/DSND_Term1/tree/master/projects/p1_charityml)
 - [SciKit-leanr (v0.17)](https://scikit-learn.org/stable/)
-- [matplotlip](https://matplotlib.org/)
+- [matplotlib](https://matplotlib.org/)
 
 ## Data
 
